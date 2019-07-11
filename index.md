@@ -1,6 +1,6 @@
-<h2>What is ExCo?</h2>
+*What is ExCo?*
 
-<p>Oberlin ExCo is a 50 year-old organization that offers courses taken by over a thousand unique students each year.</p>
+Oberlin ExCo is a 50 year-old organization that offers courses taken by over a thousand unique students each year.
 
 Anyone, town or gown, can teach an ExCo, on whatever they are passionate about! When reviewing course applications, the ExCo Committee is subject-agnostic and solely considers applications based on the instructor’s commitment to the course, familiarity with the subject matter, and depth of thought when making the syllabus.
 
