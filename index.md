@@ -1,4 +1,8 @@
-*What is ExCo?*
+---
+title: Oberlin ExCo
+layout: default
+---
+## What is ExCo?
 
 Oberlin ExCo is a 50 year-old organization that offers courses taken by over a thousand unique students each year.
 
@@ -9,3 +13,6 @@ Courses can be taken or taught for credit, but we are unfortunately unable to fi
 Typically, courses meet once or twice a week in a regular location. To learn about what courses are being taught, check out our course catalog or attend the ExCo Fair the first Wednesday of each semester.
 
 If you’d like to learn more about ExCo or talk about an idea for your course, feel free to visit one of our committee members during office hours, listed below.
+
+## Fall 2019 Course Catalog
+TODO

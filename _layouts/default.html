@@ -10,26 +10,18 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-{% seo %}
   </head>
 
   <body>
     <div id="container">
       <div class="inner">
+        {% include header.html %}
 
-        <header>
-          <h1>{{ page.title | default: site.title }}</h1>
-          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-          {% include nav.html %}
-        </header>
-        <hr>
         <section id="main_content">
           {{ content }}
         </section>
 
-        <footer>
-        TODO
-        </footer>
+      {% include footer.html %}
 
       </div>
     </div>
