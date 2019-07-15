@@ -36,6 +36,14 @@ hr {
 	border-top: 4px solid #B30000;
 }
 
+#committee tr th img {
+	width: 100%;
+	float:left;
+}
+
+#committee tr th p {
+	font-weight: normal;
+}
 
 /* navigation bar */
 .primary-navigation {
