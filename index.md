@@ -16,3 +16,6 @@ If you’d like to learn more about ExCo or talk about an idea for your course, 
 
 ## Fall 2019 Course Catalog
 TODO
+
+## Office hours
+{% include office-hours.html %}

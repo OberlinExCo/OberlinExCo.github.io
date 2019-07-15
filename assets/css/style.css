@@ -32,6 +32,10 @@ hr {
   padding: 25px;
 }
 
+#main-footer {
+	border-top: 4px solid #B30000;
+}
+
 /* navigation bar */
 .primary-navigation {
 	position:relative;
@@ -39,7 +43,6 @@ hr {
 	height:39px;
 	font-size:11px;
 	font-weight:bold;
-	background:transparent url(bgOFF.gif) repeat-x top left;
 	font-family:Arial,Verdana,Helvitica,sans-serif;
 	border-top:4px solid #B30000;
 	}
@@ -64,10 +67,8 @@ hr {
 	text-decoration:none;
 	padding:11px 20px 0 20px;
 	height:23px;
-	background:transparent url(bgDIVIDER.gif) no-repeat top right;
 	}
 
 .primary-navigation ul li a:hover,#primary-navigation ul li a.current{
 	color:#B30000;
-	background:#fff url(bgON.gif) no-repeat top right;
 	}
