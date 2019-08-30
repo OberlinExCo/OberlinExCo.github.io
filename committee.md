@@ -13,7 +13,7 @@ The ExCo Committee also makes itself available to all students and community mem
 
 The Committee meets once a week on Sunday afternoons, and each member holds an additional two hours of “office hours” throughout the week. If you would like to meet with a member of the ExCo Committee, feel free to drop by during our office hours (please note that some hours are listed as “by appointment only,” which means you should email us at least 24 hours in advance).
 
-<img src="/assets/img/committe.jpg" alt="image of ExCo Committee" style="text-align: center;">
+![The ExCo Committee, Spring 2019](/assets/img/committee.jpg)
 
 # Committee Members
 
