@@ -18,6 +18,13 @@ hr {
 	margin-bottom:25px;
 	}
 
+/* Image Formatting Defaults */
+img {
+	text-align:center;
+	width: 100%;
+	margin: 10px auto 20px;
+}
+
 /* Page Formatting */
 
 #container {
