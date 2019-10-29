@@ -4,6 +4,8 @@ layout: default
 ---
 ## Apply to Teach
 
+Course applications are due November 11th at midnight.
+
 For information about applying to teach, review the document linked below!
 
 [Do you want to teach an ExCo!](https://docs.google.com/document/d/1JY7B3yutGbEt-eQ1YcPUDI3B6qHYcPGGANIdwRTAfVo/edit?usp=sharing)
