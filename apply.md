@@ -4,7 +4,7 @@ layout: default
 ---
 ## Apply to Teach
 
-Course applications are due November 11th at midnight.
+Course applications are due November 9th at midnight.
 
 For information about applying to teach, review the document linked below!
 
