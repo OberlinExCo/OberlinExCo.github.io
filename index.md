@@ -14,7 +14,7 @@ Typically, courses meet once or twice a week in a regular location. To learn abo
 
 If you’d like to learn more about ExCo or talk about an idea for your course, feel free to visit one of our committee members during office hours, listed below.
 
-## Fall 2019 Course Catalog
+## Spring 2020 Course Catalog
 The Spring 2020 Course Catalog is now live! [Click here](https://docs.google.com/document/d/1Q8HjZ0s1LbEKivvoasxn2UAIA7YXHBs3va39pCuX8_A/edit?usp=sharing) to access the catalog.
 
 ## Office hours
