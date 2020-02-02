@@ -7,7 +7,7 @@ layout: default
 
 # Links & Forms
 - [Dates & Office Hours](https://docs.google.com/document/d/1eJ1k9MqAGcc9zoxIKLqEHqDhs4w4BRaS4aU0WKV-wV8/edit?usp=sharing)
-- Description of Instructor Assignments
+- [Description of Instructor Assignments](https://docs.google.com/document/d/1p6WIKtuHU0qjGwREQP9-2ZtkcowkfGyBP1ZgHhiToRs/edit?usp=sharing)
 - [ExCo Continuing Policy](https://docs.google.com/document/d/1IzXim4VtqyWIktbJtEwhQ1StsuXydgMm5JpoOmv5r8M/edit?usp=sharing)
 
 # Other Info
