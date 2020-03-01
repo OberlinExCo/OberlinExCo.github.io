@@ -12,5 +12,5 @@ If you are confused about what forms to fill out, more information is provided i
 
 Everything will be due on April 10th, 2020 at 11:59pm. Note that the forms will no longer allow submissions after this time. 
 
-[Course Application](https://docs.google.com/forms/d/e/1FAIpQLSfze0BfvqtY5UEKdmL_cFLzQhEW7z9fc6UzQUcc5d4kmn_eag/viewform?usp=sf_link)
-[Instructor Application](https://docs.google.com/forms/d/e/1FAIpQLSdcCR9PYTog3jvJ5gOgmWPX99TqoEDhsu15SaRgo1oI9YMSsA/viewform?usp=sf_link)
+* [Course Application](https://docs.google.com/forms/d/e/1FAIpQLSfze0BfvqtY5UEKdmL_cFLzQhEW7z9fc6UzQUcc5d4kmn_eag/viewform?usp=sf_link)
+* [Instructor Application](https://docs.google.com/forms/d/e/1FAIpQLSdcCR9PYTog3jvJ5gOgmWPX99TqoEDhsu15SaRgo1oI9YMSsA/viewform?usp=sf_link)
