@@ -154,19 +154,31 @@
     </section>
     <!-- About Us Section End -->
 
-
-    <div id="container">
-      <div class="inner">
-
-        <section id="main_content">
-          {{ content }}
-        </section>
-
-        <br>
-        {% include footer.html %}
-
+    <!-- Announcements Section -->
+    <section class="Announcements">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-6">
+                  <div class="about-text">
+                      <div class="section-title">
+                          <span>Announcements</span>
+                      </div>
+                      {{ content }}
+                  </div>
+              </div>
+              <div class="col-lg-6">
+                  <div class="about-pic">
+                      <div class="row">
+                          <div class="col-sm-6">
+                              <img src="assets/img/committee.jpg" alt="">
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
       </div>
-    </div>
+    </section>
+    <!-- Announcements Section End -->
 
     <!-- Js Plugins -->
     <script src="assets/js/jquery-3.3.1.min.js"></script>
