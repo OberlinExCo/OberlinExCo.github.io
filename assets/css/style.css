@@ -392,6 +392,9 @@ ul, ol {
 .menu-item .logo a {
 	display: inline-block;
 }
+.menu-item .logo img {
+	max-height: 100px;
+}
 .menu-item .nav-menu {
 	text-align: right;
 }
@@ -719,7 +722,7 @@ ul, ol {
 	transition: all 0.3s;
 }
 /*------------------------
-  Home Page Room Section 
+  Home Page Room Section
 -------------------------*/
 
 .hp-room-items {
