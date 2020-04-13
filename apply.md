@@ -4,14 +4,13 @@ layout: default
 ---
 ## Apply to Teach
 
-Course applications are due November 9th at midnight.
+Apply to teach an ExCo for the Fall 2020 semester! 
 
-For information about applying to teach, review the document linked below!
+All courses, new and old, need to complete a course application. All new instructors and all returning instructors teaching a different course must also individually complete an instructor application. If you are entirely new to the ExCo program as an instructor, you are also required to get faculty and general recommendations to be accepted as an instructor (forward them the instructor application link so they can fill this out!)
 
-[Do you want to teach an ExCo!](https://docs.google.com/document/d/1JY7B3yutGbEt-eQ1YcPUDI3B6qHYcPGGANIdwRTAfVo/edit?usp=sharing)
+If you are confused about what forms to fill out, more information is provided in our [applications guidelines](https://docs.google.com/document/d/10j_tkMfaOE2CMQoNcNGKblLPI4JzWxcArnB7Q9AEPxg/edit?usp=sharing) document. You are also welcome to come into office hours to talk with an ExCo Committee member about your specific situation. Our office hours are listed at our [home page](oberlinexco.org).
 
-Here are the links to the Course Application (required for all new and returning courses), and the Instructor Application (required for all instructors teaching a course they haven't taught before).
+Everything will be due on May 1st, 2020 at 11:59pm. Note that the forms will no longer allow submissions after this time. Applications submitted before April 17th will receive priority during our application process. 
 
-[Course Application](https://docs.google.com/forms/d/e/1FAIpQLScMi9paVO22gX6_iq0PCWirPD6lvkzZrVJ-tkDQQRXQKQVvSA/viewform?usp=sf_link)
-
-[Instructor Application](https://docs.google.com/forms/d/e/1FAIpQLSe96Epw8ta8XWaQGvXQXwfch5CBstRKVSOXreHUsWxoz7zImQ/viewform?usp=sf_link)
+* [Course Application](https://docs.google.com/forms/d/e/1FAIpQLSfze0BfvqtY5UEKdmL_cFLzQhEW7z9fc6UzQUcc5d4kmn_eag/viewform?usp=sf_link)
+* [Instructor Application](https://docs.google.com/forms/d/e/1FAIpQLSdcCR9PYTog3jvJ5gOgmWPX99TqoEDhsu15SaRgo1oI9YMSsA/viewform?usp=sf_link)
