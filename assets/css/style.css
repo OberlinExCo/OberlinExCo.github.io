@@ -392,9 +392,6 @@ ul, ol {
 .menu-item .logo a {
 	display: inline-block;
 }
-.menu-item .logo img {
-	max-height: 100px;
-}
 .menu-item .nav-menu {
 	text-align: right;
 }
