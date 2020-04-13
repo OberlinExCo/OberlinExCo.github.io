@@ -1,6 +1,5 @@
 ---
 title: The ExCo committee
-description:
 layout: default
 ---
 ## The ExCo committee
@@ -15,6 +14,6 @@ The Committee meets once a week on Sunday afternoons, and each member holds an a
 
 ![The ExCo Committee, Spring 2019](/img/committee.jpg)
 
-# Committee Members
+### Committee Members
 
 {% include members.html %}
