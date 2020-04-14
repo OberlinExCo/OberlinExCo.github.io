@@ -512,6 +512,8 @@ ul, ol {
 	line-height: 90px;
 	color: #ffffff;
 	margin-bottom: 16px;
+	background: rgb(34,34,34); /* for IE */
+  background: rgba(34,34,34,0.75);
 }
 .hero-text p {
 	font-size: 18px;
