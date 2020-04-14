@@ -901,6 +901,9 @@ ul, ol {
 	background: #dfa974;
 	border-color: #dfa974;
 }
+.ft-about .top-social a {
+	padding-right: 15px;
+}
 .footer-section .footer-text .ft-contact {
 	margin-bottom: 30px;
 }
