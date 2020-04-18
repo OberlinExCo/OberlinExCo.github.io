@@ -18,6 +18,8 @@ The Committee meets once a week on Sunday afternoons, and each member holds an a
 
 {% include members.html %}
 
+___
+
 ### Past ExCo Committee Members
 ##### Gone but never forgotten...
 
