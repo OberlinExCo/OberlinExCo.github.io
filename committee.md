@@ -23,6 +23,8 @@ ___
 ### Past ExCo Committee Members
 ##### Gone but never forgotten...
 
+---
+
 #### Zane
 Zane (he/him/his) is a Politics major from Bellingham, WA. He enjoys running and biking and being outside. He also likes cooking and eating food. Zane served on the Committee for six semesters, acting as treasurer and spending a lot of time working on institutional memory. Zane’s order from The Local would be a double toasted sesame bagel with cream cheese on one side, pesto on the other, and a tomato in the middle (so that the cream cheese and pesto don’t mix).
 
