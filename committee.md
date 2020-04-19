@@ -1,8 +1,8 @@
 ---
-title: The ExCo Committee
+title: The ExCo committee
 layout: default
 ---
-## The ExCo committee
+## The ExCo Committee
 
 The ExCo Department is the only student-run, for-credit Experimental College in the country, and is maintained and overseen by a group of Oberlin students called the ExCo Committee. The ExCo Committee is made up of 4-6 current Oberlin students, one of whom serves as the Chair of the Committee.
 
