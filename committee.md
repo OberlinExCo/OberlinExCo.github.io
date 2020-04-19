@@ -1,5 +1,5 @@
 ---
-title: The ExCo committee
+title: The ExCo Committee
 layout: default
 ---
 ## The ExCo committee
