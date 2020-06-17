@@ -25,6 +25,9 @@ ___
 
 ---
 
+#### Lars
+Lars (he/him/his is a Math major from Aurora, CO who graduated in Spring 2020. Lars served as the chair of the ExCo Committee and revamped the website, as well as automated ExCo forms to streamline the application and registration processes. His passion for ExCo resulted in many advances in how it is run. Outside of ExCo, he enjoys learning the trumpet, taking care of ducks, and trying to explain technical computer things to his friends.
+
 #### Zane
 Zane (he/him/his) is a Politics major from Bellingham, WA. He enjoys running and biking and being outside. He also likes cooking and eating food. Zane served on the Committee for six semesters, acting as treasurer and spending a lot of time working on institutional memory. Zane’s order from The Local would be a double toasted sesame bagel with cream cheese on one side, pesto on the other, and a tomato in the middle (so that the cream cheese and pesto don’t mix).
 
