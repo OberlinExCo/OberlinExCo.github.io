@@ -5,7 +5,9 @@ layout: default
 ---
 ## ExCo's History
 
-### Early History:
+
+
+### Early History
 <p style="text-align: left"> The Oberlin Experimental College was founded in 1968, offering five courses. The value of the Experimental College before its founding was both exaggerated and understated in numerous opinion articles in the Oberlin Review. Proponents of the new program emphasized that open courses could be used as testing grounds in both course content and pedagogical technique before being accepted into the traditional academic canon. Opponents of the Experimental College foresaw failure due to a perceived lack of expertise among students and insufficient free time for students to participate in teaching and taking ExCo courses. As part of the “educational earthquake” of reforms in the 1960s, the formation of the Experimental College– alongside the formation of January Term– represented the desire of Oberlin students to define their own education. In a pitch to gain approval from faculty governance and administrative structures in the College of Arts & Sciences, members of the first ExCo Committee declared that ExCo was “an educational, not a political experience”. Given the radical nature of the program, it is assumed that public statements like these were political decisions to maximize the chance of the ExCo Charter being approved.</p>
 
 <p style="text-align: left">ExCo experienced rapid growth in both the number of courses offered and the number of students enrolled in the first two decades after its founding. According to a background information document provided by the ExCo Committee for EPPC review, by the 1980s, ExCo was regularly offering 50+ courses each semester, indicating that the program had already reached the size that it is today. It was also around this time that EPPC Reports began talking of ExCo as reaching “maturity” and urged the committee to reevaluate the ways ExCo fit into a broader Oberlin education.</p>
