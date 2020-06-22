@@ -25,6 +25,8 @@ ___
 
 ---
 
+{% include past-members.html %}
+
 #### Lars
 Lars (he/him/his) is a Math major from Aurora, CO who graduated in Spring 2020. Lars served as the chair of the ExCo Committee and revamped the website, as well as automated ExCo forms to streamline the application and registration processes. His passion for ExCo resulted in many advances in how it is run. Outside of ExCo, he enjoys learning the trumpet, taking care of ducks, and trying to explain technical computer things to his friends.
 
