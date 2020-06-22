@@ -5,7 +5,7 @@ layout: default
 ---
 ## Previous Course Offerings
 
-<p style="text-align: left">Over the years, ExCo has offered many courses. View some of our previous course catalogs here!</p>
+Over the years, ExCo has offered many courses. View some of our previous course catalogs here!
 
 <a href="https://docs.google.com/document/d/1Q8HjZ0s1LbEKivvoasxn2UAIA7YXHBs3va39pCuX8_A/edit"> Spring 2020 Course Catalog</a>
 
