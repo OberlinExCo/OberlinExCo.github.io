@@ -4,4 +4,4 @@ layout: home
 ---
 ## ExCo Academic Year 2020-2021 Plan
 
-We will release our plan within the next week.
+<--<a href="/plan" class="primary-btn about-btn">Read More</a>-->
