@@ -6,7 +6,7 @@ layout: default
 ## For Current Instructors
 
 ### Links & Forms
-[Dates & Office Hours](https://docs.google.com/document/d/1eJ1k9MqAGcc9zoxIKLqEHqDhs4w4BRaS4aU0WKV-wV8/edit?usp=sharing)
+[Dates & Office Hours](https://docs.google.com/document/d/155I0TdeENZ9Ne9UMaBcrMDdlWRuuv7WJymSiHlsOQv4/edit)
 
 [Description of Instructor Assignments](https://docs.google.com/document/d/1p6WIKtuHU0qjGwREQP9-2ZtkcowkfGyBP1ZgHhiToRs/edit?usp=sharing)
 
