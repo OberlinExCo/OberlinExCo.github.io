@@ -8,4 +8,4 @@ layout: home
 
 ## We Are Updating Our Website!
 
-We are adding more resources for those interested in ExCo! Look under the Resources tab to read more about ExCo.
+We are adding more information for those interested in ExCo! Look under the Resources tab to read more about ExCo.
