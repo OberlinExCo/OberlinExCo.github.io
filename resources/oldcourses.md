@@ -15,7 +15,7 @@ Over the years, ExCo has offered many courses. View some of our previous course 
 
 <a href="https://docs.google.com/document/d/18M2r0w8oN8UoDcv3n9lI3vOLfMpezj1HhbrupPEgYIE/edit">Fall 2018 Course Catalog</a>
 
-<a href="1r7jCgnPHEzFiU24uZ7fmXBUH6rueDnWZOc8tiaU1Aqs">Spring 2018 Course Catalog</a>
+<a href="https://docs.google.com/document/d/1r7jCgnPHEzFiU24uZ7fmXBUH6rueDnWZOc8tiaU1Aqs/edit">Spring 2018 Course Catalog</a>
 
 <a href="https://docs.google.com/document/d/17p9kwSxdJtKMJJdoY8Ga_b3qIHTmzFggoi8GQ4KrNow/edit">Fall 2017 Course Catalog</a>
 
