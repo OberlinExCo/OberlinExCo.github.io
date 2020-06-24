@@ -5,7 +5,7 @@ layout: default
 ---
 ## Read More
 
-Many students have written about their experiences with ExCo. Read about their involvement here!
+For many Obies, ExCos can come to define their Oberlin experience. Read about their involvement here!
 
 <a href="https://www.oberlin.edu/blogs/grateful-oberlin-excos"> Grateful for Oberlin: ExCos </a>
 
