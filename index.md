@@ -6,6 +6,3 @@ layout: home
 
 <a href="/plan" class="primary-btn about-btn">Read More</a>
 
-## We Are Updating Our Website!
-
-We are adding more information for those interested in ExCo! Look under the Resources tab to read more about ExCo.
