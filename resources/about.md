@@ -11,4 +11,4 @@ layout: default
 
 <p style="text-align: left">Typically, courses meet once or twice a week in a regular location. To learn about what courses are being taught, check out our course catalog or attend the ExCo Fair the first Wednesday of each semester. <a href="/resources/oldcourses.html">View past course offerings here.</a></p>
 
-<p style="text-align: left">If you’d like to learn more about ExCo or talk about an idea for your course, feel free to visit one of our committee members during office hours.</p>
+<p style="text-align: left">If you’d like to learn more about ExCo or talk about an idea for your course, feel free to visit one of our committee members during office hours or email us at exco@oberlin.edu.</p>
