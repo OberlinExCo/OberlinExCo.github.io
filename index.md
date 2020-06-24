@@ -8,6 +8,6 @@ layout: home
 
 ## Read About Students' Experience with ExCo!
 
-Many students have written about how ExCos have changed their college experience. Read about it here!
+Many students have written about how ExCos have changed their college experience.
 
 <a href="/resources/readmore" class="primary-btn about-btn">Read More</a>
