@@ -4,9 +4,9 @@ layout: default
 ---
 ## The ExCo Committee
 
-<p style="text-align: left">The ExCo Department is the only student-run, for-credit Experimental College in the country, and is maintained and overseen by a group of Oberlin students called the ExCo Committee. The ExCo Committee is made up of 4-6 current Oberlin students, one of whom serves as the Chair of the Committee.</p>
+<p style="text-align: left">The ExCo Department is the only student-run, for-credit Experimental College in the country, and it is maintained and overseen by a group of Oberlin students called the ExCo Committee. The ExCo Committee is made up of 4-6 current Oberlin students, one of whom serves as the Chair of the Committee.</p>
 
-<p style="text-align: left">Members of the Committee perform a variety of functions to maintain the ExCo Program, including reviewing course applications and interviewing potential instructors; planning and hosting the ExCo Fair; allocating SFC funds to instructors; working with administration to affect policy; and helping instructors brainstorm any problems that might arise throughout the semester.</p>
+<p style="text-align: left">Members of the Committee perform a variety of functions to maintain the ExCo Program, including reviewing course applications, interviewing potential instructors, planning and hosting the ExCo Fair, allocating SFC funds to instructors, working with administration to affect policy, and helping instructors brainstorm any problems that might arise throughout the semester.</p>
 
 <p style="text-align: left">The ExCo Committee also makes itself available to all students and community members taking an ExCo course. Anyone with questions or concerns regarding their ExCo may always meet with a member of the Committee to address their course and brainstorm potential solutions.</p>
 
