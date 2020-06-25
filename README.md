@@ -26,8 +26,8 @@ This is how we group together webpages that will appear in the same tab in the n
 
 Add old Course Catalogs to the oldcourses page, and if you notice any new blogs about ExCo, feel free to link them in the readmore page.
 
-# Apply to Teach
-This must be updated regularly, both to tell potential instructors when they need to apply or if the application season is currently not open.
+# Apply Directory
+This must be updated regularly, both to tell potential instructors when they need to apply or if the application season is currently not open. There is also now a page for great syllabi so potentiaal instructors can have an idea on what is expected.
 
 # Index
 Use this to keep up announcements on the homepage.
