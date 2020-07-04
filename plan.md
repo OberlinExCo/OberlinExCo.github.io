@@ -20,3 +20,4 @@ We remain committed to holding ExCos next year. We are offering several options 
 <p style="text-align: left">If you have any questions, please reach out to exco@oberlin.edu.</p>
 
 #### Frequently Asked Questions
+You can find some answers to some questions <a href="https://docs.google.com/document/d/1HUA9Zy0UTVWO44TsTMzEAAdGrOqQnNlzcMYpXFNEtCE/edit">here.</a> We will update it as we get more information.
