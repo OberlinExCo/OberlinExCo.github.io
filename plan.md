@@ -14,7 +14,7 @@ We remain committed to holding ExCos next year. We are offering several options 
 <p style="text-align: left">ExCo instructors will be expected to follow the <a href="https://www.oberlin.edu/campus-resources/bulletins/covid-19-planning-2020-21-oberlin-college">guidelines set by Oberlin College</a> and maintain social distancing.</p>
 
 #### Frequently Asked Questions
-<p style="text-align: left">You can find some answers to some questions <a href="https://docs.google.com/document/d/1HUA9Zy0UTVWO44TsTMzEAAdGrOqQnNlzcMYpXFNEtCE/edit">here.</a> We will update it as we get more information.</p>
+<p style="text-align: left"> We will post a FAQ document as soon as possible.</p>
 
 #### For 3rd Years:
 <p style="text-align: left">Students who will not be on campus in the Fall can either choose to teach their class remotely, delay their acceptance to a future semester, or pass instructorship to another individual who will be on campus. Students who are not on campus will not be able to receive credit for teaching or taking an ExCo.</p>
