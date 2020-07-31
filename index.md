@@ -4,7 +4,9 @@ layout: home
 ---
 ## ExCo Fair Registration
 
-Register to attend our online ExCo Fair <a href="/rsvp" class="primary-btn about-btn">here!</a>
+Register to attend our online ExCo Fair!
+
+<a href="/rsvp" class="primary-btn about-btn">RSVP now</a>
 
 ## ExCo Academic Year 2020-2021 Plan
 
