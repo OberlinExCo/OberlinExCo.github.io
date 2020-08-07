@@ -2,6 +2,12 @@
 title: Oberlin ExCo
 layout: home
 ---
+## ExCo Course Catalog Fall 2020
+
+Our schedule of classes for the Fall semester is now out!
+
+<a href="/catalog" class="primary-btn about-btn">View the Catalog</a>
+
 ## ExCo Fair Registration
 
 Register to attend our online ExCo Fair!
