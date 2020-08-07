@@ -16,7 +16,7 @@ Register to attend our online ExCo Fair!
 
 ## ExCo Academic Year 2020-2021 Plan
 
-<a href="/plan" class="primary-btn about-btn">Read More</a>
+<a href="/resources/plan" class="primary-btn about-btn">Read More</a>
 
 ## Read About Students' Experience with ExCo!
 
