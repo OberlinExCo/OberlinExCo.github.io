@@ -4,7 +4,7 @@ A Website for Oberlin ExCo
 # Author
 Initialized by Lars Dreith, Oberlin College '20
 
-Maintained and updated by Alex Jensen, Oberlin College, '21
+Maintained and updated by Alex Jensen, Oberlin College '21
 
 # Includes Directory
 Contains elements that occur on every page, such as the header, footer, navigation, and social links, as well as some other elements that have been separated out for ease of use. This is the directory that you will access if you want to update the current and previous committee members, as well as add webpages to the navigation bar.
