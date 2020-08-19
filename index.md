@@ -12,7 +12,7 @@ Our schedule of classes for the Fall semester is now out!
 
 Register to attend our online ExCo Fair!
 
-<a href="/rsvp" class="primary-btn about-btn">RSVP now</a>
+<a href="/fair/rsvp" class="primary-btn about-btn">RSVP now</a>
 
 ## ExCo Academic Year 2020-2021 Plan
 
