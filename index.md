@@ -2,6 +2,13 @@
 title: Oberlin ExCo
 layout: home
 ---
+
+## Course Application Opening Soon
+
+Applications to teach an ExCo during the Spring 2021 semester are opening the week of October 4th.
+
+<a href="/apply/apply" class="primary-btn about-btn">Read More</a>
+
 ## ExCo Course Catalog Fall 2020
 
 Our schedule of classes for the Fall semester is now out!
