@@ -4,7 +4,7 @@ layout: announcement
 ---
 ## Apply to Teach
 
-We are currently not accepting applications to teach an ExCo.
+We are currently not accepting applications to teach an ExCo. Course applications will open the week of October 4th and close October 31st.
 
 <p style="text-align: left">All courses, new and old, need to complete a course application. All new instructors and all returning instructors teaching a different course must also individually complete an instructor application. If you are entirely new to the ExCo program as an instructor, you are also required to get faculty and general recommendations to be accepted as an instructor (forward them the instructor application link so they can fill this out!)</p>
 
