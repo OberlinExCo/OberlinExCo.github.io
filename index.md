@@ -5,7 +5,7 @@ layout: home
 
 ## Course Applications Are Now Open!
 
-Applications to teach an ExCo during the Spring 2021 semester are open!
+Apply to teach an ExCo during the Spring 2021 semester!
 
 <a href="/apply/apply" class="primary-btn about-btn">Read More</a>
 
