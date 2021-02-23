@@ -42,3 +42,6 @@ We generally put this as a tab during the first week of the semester, but then t
 
 Click the File button at the top of the Google Doc and then click Publish to the Web. You will see the options of Link or Embed. Click Embed and then Publish. Some code will pop up. You can copy this code directly into the Fair file on GitHub. You might need to adjust the dimensions of the iframe object. Right after the part of the code where it says <iframe, write width="1000" height="1000". I don't know if these are the right dimensions, but you can play around with it to find good dimensions for the website.
 
+# Catalog
+This is where we put the Catalog for a given semester. It should be fairly easy to update this by just changing the URL each semester.
+
