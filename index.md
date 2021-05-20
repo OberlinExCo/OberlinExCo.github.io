@@ -4,13 +4,11 @@ layout: home
 ---
 
 
-## ExCo Applications for Summer Are Now Open!
 
-<a href="/teach/apply" class="primary-btn about-btn">Apply Here</a>
 
-## ExCo Course Catalog Spring 2021
+## ExCo Course Catalog Summer 2021
 
-Our schedule of classes for the Spring semester is now out!
+Our schedule of classes for the Summer semester is now out!
 
 <a href="/catalog" class="primary-btn about-btn">View the Catalog</a>
 
