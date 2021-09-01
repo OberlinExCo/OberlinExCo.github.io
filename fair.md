@@ -4,6 +4,5 @@ layout: default
 ---
 ## ExCo Fair
 
-<p>The Summer ExCo Fair is on Wednesday May 26th from 7:30-8:30pm EST and is fully remote <a href="https://docs.google.com/presentation/d/1fReeMrf9aubfid8pxFAorNZ2KibYbBvrmEx6dEfslAs/edit?usp=sharing">through this link!</a></p> 
-
-<p>During the fair, instructors will be in Zoom rooms that can be accessed via the ExCo Fair Powerpoint. The PowerPoint also has helpful information about courses and will be available for the entire first week of classes. Please consult this PowerPoint and the Course Catalog for information about the Summer Semester ExCos. </p>  
+<p>The Fall ExCo Fair is on Wednesday October 6th from 5:00-7:00pm EST and in the Science Center Bowl. The rain location for this event is the Root Room from 6:30-8:30pm EST)
+  Please consult the Course Catalog for information about the Fall Semester ExCos. </p>  
