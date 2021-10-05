@@ -6,9 +6,9 @@ layout: home
 
 
 
-## ExCo Course Catalog Summer 2021
+## ExCo Course Catalog Fall 2021
 
-Our schedule of classes for the Summer semester is now out!
+Our schedule of classes for the Fall semester is now out!
 
 <a href="/catalog" class="primary-btn about-btn">View the Catalog</a>
 
