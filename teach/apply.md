@@ -16,4 +16,4 @@ Instructor Application: [https://forms.gle/2t6iKifBzqu4L7NN6](url),
 
 
 
-To view some past courses, <a href="/resources/oldcourses">visit here.</a> To see some example syllabi, <a href="/teach/syllabi">visit here.</a></p>
+To view some past courses, <a href="/resources/oldcourses">visit here.</a> To see some example syllabi, <a href="/teach/syllabi">visit here.</a>
