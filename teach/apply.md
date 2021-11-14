@@ -8,12 +8,11 @@ ExCo applications are now open for Spring 2022! All application materials are du
 
 
 
-Application Guidelines: [https://docs.google.com/document/d/1obgJ-4tA1Ke8WnA4kplCse_8El-laG2jPAOpYtzflDU/edit?usp=sharing](url)
+Application Guidelines: https://docs.google.com/document/d/1obgJ-4tA1Ke8WnA4kplCse_8El-laG2jPAOpYtzflDU/edit?usp=sharing
 
+Course Application: https://forms.gle/QmmDSGjVGXazxE4q6
 
-Course Application: [https://forms.gle/QmmDSGjVGXazxE4q6](url)
-
-Instructor Application: [https://forms.gle/tH7WmDYaHv4VNSL87](url) 
+Instructor Application:  https://forms.gle/tH7WmDYaHv4VNSL87
 
 
 
