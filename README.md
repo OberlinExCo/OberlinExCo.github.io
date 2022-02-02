@@ -5,6 +5,9 @@ A Website for Oberlin ExCo
 Initialized by Lars Dreith, Oberlin College '20
 
 Maintained and updated by Alex Jensen, Oberlin College '21
+Maintained and updated slightly by Veronica Mahoney, Oberlin College '22
+
+
 
 # About this README
 Hello! This document is designed to help you update the website. First of all, here are some small but important notes. Whenever we refer to a directory, it is the same as a folder. In GitHub, that appears as a blue folder to the left of the name. Additionally, remember that a lot of coding is copying things that already exist and changing them slightly to fit our needs. For example, if we want to add a new link to a page, take an existing link and change the URL. Remember that it takes a little bit of time for the website to update.
@@ -38,10 +41,12 @@ Similarly to the resources and about directories, this is a grouped set of webpa
 Use this to keep up announcements on the homepage.
 
 # Fair
-We generally put this as a tab during the first week of the semester, but then take it down for the rest of the semester. We generally add a link to the Course Catalog here and also embed the Course Catalog directly in the page. The way to do this is as follows:
+We generally put this as a tab during the first week of the semester, but then take it down for the rest of the semester (you can change the text to say that the exco fair already happened and to check back next semester). We generally add a link to the Course Catalog here and also embed the Course Catalog directly in the page. The way to do this is as follows:
 
 Click the File button at the top of the Google Doc and then click Publish to the Web. You will see the options of Link or Embed. Click Embed and then Publish. Some code will pop up. You can copy this code directly into the Fair file on GitHub. You might need to adjust the dimensions of the iframe object. Right after the part of the code where it says <iframe, write width="1000" height="1000". I don't know if these are the right dimensions, but you can play around with it to find good dimensions for the website.
 
 # Catalog
 This is where we put the Catalog for a given semester. It should be fairly easy to update this by just changing the URL each semester.
 
+# ExCo Committee
+You'll have to update the committee members anytime someone new is hired/when someone graduates. To do this, go to layout then committee members to change the current committee members. To delete an old committee member highlight their text and delete it. To add a new committee member I like to copy existing code for an old committee member and then paste it below the bottom committee member and above the table stuff that seems important (i know very little about coding, I'm just now in charge of this somehow). Replace the names and descriptions of the text with the info about the new committee member. Make sure to upload an image of the committee member first in the image directory (explained above). 
