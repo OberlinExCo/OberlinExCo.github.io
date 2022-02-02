@@ -4,14 +4,8 @@ layout: announcement
 ---
 ## Apply to Teach
 
-ExCo applications are now open for Spring 2022! All application materials are due by Friday November 19th! Please use the links below.
+ExCo applications are now closed for Spring 2022. Please check back soon for Fall 2022 applications. 
 
-
-[Application Guidelines](https://docs.google.com/document/d/1obgJ-4tA1Ke8WnA4kplCse_8El-laG2jPAOpYtzflDU/edit?usp=sharing)
-
-[Course Application](https://forms.gle/QmmDSGjVGXazxE4q6)
-
-[Instructor Application](https://forms.gle/tH7WmDYaHv4VNSL87)
 
 
 
