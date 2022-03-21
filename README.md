@@ -5,7 +5,7 @@ A Website for Oberlin ExCo
 Initialized by Lars Dreith, Oberlin College '20
 
 Maintained and updated by Alex Jensen, Oberlin College '21
-Maintained and updated slightly by Veronica Mahoney, Oberlin College '22
+Maintained and put in plain language by Veronica Mahoney, Oberlin College '22
 
 
 
@@ -38,7 +38,8 @@ Add old Course Catalogs to the oldcourses page, and if you notice any new blogs 
 Similarly to the resources and about directories, this is a grouped set of webpages that will drop down from the tab at the top of the website. This must be updated regularly, both to tell potential instructors when they need to apply or if the application season is currently not open. There is also now a page for great syllabi so potential instructors can have an idea on what is expected.
 
 # Index
-Use this to keep up announcements on the homepage.
+Use this to keep up announcements on the homepage. 
+Copy and paste the existing text in order to add a new announcement. In order to make the links work you need to check in our actual coding account to see where different tabs are listed. For example, the catalog is just listed under catalog, but the committee bios is under about/committee (I think that is correct but dont quote me). Go off of those tabs rather than what the website says. You can delete old announcements as well.
 
 # Fair
 We generally put this as a tab during the first week of the semester, but then take it down for the rest of the semester (you can change the text to say that the exco fair already happened and to check back next semester). We generally add a link to the Course Catalog here and also embed the Course Catalog directly in the page. The way to do this is as follows:
