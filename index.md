@@ -25,4 +25,4 @@ Many students have written about how ExCos have changed their college experience
 
 Meet the students that run the department.
 
-<a href="/about/the exco committee" class="primary-btn about-btn">Read More</a>
+<a href="/about/committee" class="primary-btn about-btn">Read More</a>
