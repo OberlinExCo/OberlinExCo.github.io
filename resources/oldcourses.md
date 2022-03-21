@@ -7,6 +7,9 @@ layout: default
 
 Over the years, ExCo has offered many courses. View some of our previous course catalogs here!
 
+
+<a href="https://docs.google.com/document/d/1oE9eTGBRi4ncD8p4RJ_uJ3xi46r7OtA0sTSMKe96YNw/edit?usp=sharing"> Spring 2022 Course Catalog</a>
+
 <a href="https://docs.google.com/document/d/1AA5b41X4gaBTkoVnkOxzjmr3kBccxpj1YgaJwUh0qDM/edit?usp=sharing"> Fall 2021 Course Catalog</a>
 
 <a href="https://docs.google.com/document/d/1roz-WXN5uDMWb_FwcFlOgjyRKUdGPVnbs-zR6XKTohw/edit?usp=sharing"> Summer 2021 Course Catalog</a>
