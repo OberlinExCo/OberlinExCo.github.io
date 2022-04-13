@@ -16,7 +16,7 @@ ExCo Instructor Application/Recommendation Form:
 <a href="https://forms.gle/4qLrGbZ8ouFYUJ6e7">Instructor App & Recommendor Form</a>
 
 ExCo Course Application/Syllabus Application:
-<a href="https://forms.gle/a2mmgErMDcW2Ho7c6">Instructor App & Recommendor Form</a>
+<a href="https://forms.gle/a2mmgErMDcW2Ho7c6">Course App & Syllabus Upload</a>
 
 
 
