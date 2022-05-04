@@ -4,12 +4,6 @@ layout: home
 ---
 
 
-## ExCo Fall 2022 Applications !
-
-Appy now to teach a Fall 2022 ExCo! Applications are due April 15th!
-
-<a href="/teach/apply" class="primary-btn about-btn">Apply Here</a>
-
 ## ExCo Course Catalog Spring 2022
 
 Our schedule of classes for the Spring semester is now out!
