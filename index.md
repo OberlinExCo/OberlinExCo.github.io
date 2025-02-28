@@ -1,6 +1,6 @@
 ---
 title: Oberlin ExCo
-layout: home
+layout: redirect
 ---
 
 
