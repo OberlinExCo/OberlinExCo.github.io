@@ -7,7 +7,12 @@ Initialized by Lars Dreith, Oberlin College '20
 Maintained and updated by Alex Jensen, Oberlin College '21
 Maintained and put in plain language by Veronica Mahoney, Oberlin College '22
 
+## Deprecated as of February 2025
+A new website is available at https://exco.oberlincollege.net
 
+A new template in the _layout folder has been created with a redirect page, and the index.md file in the root has been set up to use that template instead of "home"
+
+Should any future committee member wish to reverse these changes. Updating the template reference in index.md to "home" and committing new changes should be sufficient.
 
 # About this README
 Hello! This document is designed to help you update the website. First of all, here are some small but important notes. Whenever we refer to a directory, it is the same as a folder. In GitHub, that appears as a blue folder to the left of the name. Additionally, remember that a lot of coding is copying things that already exist and changing them slightly to fit our needs. For example, if we want to add a new link to a page, take an existing link and change the URL. Remember that it takes a little bit of time for the website to update.
