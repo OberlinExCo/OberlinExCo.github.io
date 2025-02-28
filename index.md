@@ -4,11 +4,9 @@ layout: home
 ---
 
 
-## ExCo Course Catalog Spring 2022
+## ExCo Course Catalog Spring 2025
 
-Our schedule of classes for the Spring semester is now out!
-
-<a href="/catalog" class="primary-btn about-btn">View the Catalog</a>
+TODO - TESTING
 
 ## Read About Students' Experience with ExCo!
 
