@@ -3,11 +3,6 @@ title: Oberlin ExCo
 layout: redirect
 ---
 
-
-## ExCo Course Catalog Spring 2025
-
-TODO - TESTING
-
 ## Read About Students' Experience with ExCo!
 
 Many students have written about how ExCos have changed their college experience.
