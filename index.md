@@ -1,5 +1,5 @@
 ---
-title: Oberlin ExCo
+title: Oberlin ExCo - old
 layout: redirect
 ---
 
